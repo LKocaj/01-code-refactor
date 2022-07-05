@@ -20,3 +20,5 @@ First off, everything was using the <div> tag which works but is very vague for 
             
  Header class can actually be removed now since its an official tag but... tags cleaned up.          
  Repetitive CSS has been consolidated. 
+
+link to deployed app: https://lkocaj.github.io/01-code-refactor/
